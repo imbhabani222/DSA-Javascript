@@ -5,6 +5,8 @@
 // where row represent i and col reperesent j
 
 
+
+
 // 1 
 // 1 2 
 // 1 2 3 
